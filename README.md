@@ -10,6 +10,8 @@ This project demonstrates a fully serverless data pipeline using AWS services to
 
 EventBridge → Lambda → S3 (partitioned) → DynamoDB
 
+![Architecture Diagram](architecture/architecture.png)
+
 ---
 
 ## ⚙️ Tech Stack
